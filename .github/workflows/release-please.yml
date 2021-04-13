@@ -23,7 +23,7 @@ jobs:
           node-version: 12
           registry-url: 'https://registry.npmjs.org'
         if: ${{ steps.release.outputs.release_created }}
-      - uses: actions/cache@v2
+      - uses: actions/cache@v2.1.5
         if: ${{ steps.release.outputs.release_created }}
         with:
           # npm cache files are stored in `~/.npm` on Linux/macOS
