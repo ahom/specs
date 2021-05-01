@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.12.0](https://www.github.com/ahom/specs/compare/v0.11.0...v0.12.0) (2021-05-01)
+
+
+### Features
+
+* remove nullables and null defaults ([3efe1a4](https://www.github.com/ahom/specs/commit/3efe1a4ed2469a6b22e5ee8cb0e7a8d17826cc1d))
+
 ## [0.11.0](https://www.github.com/Toaztr/specs/compare/v0.10.1...v0.11.0) (2021-04-29)
 
 
