@@ -433,7 +433,7 @@ paths:
             schema:
               $ref: ../models/Case.v1.json
       responses:
-        '200':
+        '201':
           content:
             application/json:
               schema:
@@ -767,7 +767,7 @@ paths:
             schema:
               $ref: ../models/Partner.v1.json
       responses:
-        '200':
+        '201':
           content:
             application/json:
               schema:
@@ -962,7 +962,7 @@ paths:
             schema:
               $ref: ../models/PlanParameters.v1.json
       responses:
-        '200':
+        '201':
           content:
             application/json:
               schema:
@@ -1070,7 +1070,7 @@ paths:
       summary: Creates simulations
       operationId: postSimulation
       responses:
-        '200':
+        '201':
           description: OK
           content:
             application/json:
