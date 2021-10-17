@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.73.0](https://www.github.com/ahom/specs/compare/v0.72.0...v0.73.0) (2021-10-17)
+
+
+### Features
+
+* Adds name to subscription and allows PUT /name on subscription and subscriptionItem resources ([b846413](https://www.github.com/ahom/specs/commit/b8464139cb26f6e8b9fba3abecef58055a72d2a5))
+
 ## [0.72.0](https://www.github.com/Toaztr/specs/compare/v0.71.0...v0.72.0) (2021-10-13)
 
 
